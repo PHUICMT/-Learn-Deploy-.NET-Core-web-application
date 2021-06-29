@@ -1,5 +1,4 @@
 name: Setup .NET Core SDK 
-  on: [push] 
   jobs:
     build:
     
